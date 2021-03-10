@@ -1,9 +1,6 @@
 title: Repositorio principal
-<<<<<<< HEAD
 description: Acceso a mis repositorios principales y publicos.
-=======
 description: Architect is a theme for GitHub Pages.
->>>>>>> 9c911dd16592d5309fe4d01d756cae2d62565c62
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-architect
